@@ -1,2 +1,2 @@
-# cafe-menu
- FCC CSS practice
+# [Learn Basic CSS by Building a Cafe Menu](https://amandapennell.github.io/cafe-menu/)
+Part of the [Free Code Camp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
